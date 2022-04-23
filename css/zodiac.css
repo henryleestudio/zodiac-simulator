@@ -1,0 +1,94 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 63.5%;
+  height: 100%;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  background-image: url("../img/mufasa-motion-version-1.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aqua;
+  min-height: 80%;
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+.border { 
+  border: 1px solid black;
+}
+
+.headline {
+  font-size: 6rem;
+  margin-bottom: 18px;
+}
+
+.sub-title {
+  font-size: 3.2rem;
+  /* font-family: 'Comfortaa', cursive; */
+}
+
+#btn {
+  /* float: left; */
+  margin-left: 0.2%;
+  padding: 2.4px 14px 8px 14px;
+  font-family: 'Cinzel Decorative', cursive;
+  border-radius: 4px;
+  border: none;
+  margin-left: 10px;
+  background: rgb(0 0 0 / 63%);
+  color: aqua;
+  font-size: 2.3rem;
+  border: .25px solid aqua;
+
+}
+
+#zodiac-box {
+  background: rgb(0 0 0 / 63%);
+  margin-top: 35px;
+  width: 67%;
+  display: inline-block;
+  border-radius: 10px;
+  padding: 0px 4% 0px 4%;
+  border: .25px solid aqua;
+}
+
+#zodiac-title-result {
+  font-size: 3.5rem;
+}
+
+#zodiac-info-result {
+  font-size: 2.4rem;
+  font-family: 'Comfortaa', cursive;
+  line-height: 4rem;
+}
+
+.form {
+  display: inline-block;
+  margin-top: 22px;
+  font-size: 2.7rem;
+}
+
+input {
+  padding: 14px;
+  border-radius: 4px;
+  border: none;
+  background: rgb(0 0 0 / 63%);
+  color: aqua;
+  border: .25px solid aqua;
+}
+
+label {
+  margin-left: 10px;
+}
+/* 
+.forms {
+  align-items: center;
+  text-align: ;
+
+
+} */

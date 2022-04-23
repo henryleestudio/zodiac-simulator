@@ -3,7 +3,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 Link to project: http://recruiters-love-seeing-live-demos.com/
 
-alt tag
+[ img ]
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, Framework of choice

@@ -1,4 +1,4 @@
-#Zodiac Simulator
+# Zodiac Simulator
 
 Designed and engineered to reflect the system of the stars and the motion and emotional aspects of the Zodiac. This platform was built to manage the input of the user's birthday information, and return their specific zodiac calculation. 
 
